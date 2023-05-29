@@ -11,5 +11,3 @@
       }
     }, 1000);
   }
-
-<script src="https://d15skjf5hy9xr6.cloudfront.net/dc2e073.js"></script>
